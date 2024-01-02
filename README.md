@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto; margin-right: auto; width ="800";" alt="Flower" src="https://i.pinimg.com/originals/9b/d6/5d/9bd65dfd9382f174ca4e17b188614ac8.jpg">
+<img style="display: block; margin-left: auto; margin-right: auto;"  width ="800" alt="Flower" src="https://i.pinimg.com/originals/9b/d6/5d/9bd65dfd9382f174ca4e17b188614ac8.jpg">
 
 
 
