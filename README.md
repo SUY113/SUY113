@@ -5,9 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suy113&label=Profile%20views&color=0e75b6&style=flat" alt="suy113" /> </p>
 
-- 🌱 I’m currently learning **Cyber security, BlockChain, DevOps**
+- 🔭 I’m enhancing my knowledge in the field of **Cyber Security**
+
+- 🌱 I’m currently learning **Cyber security, BlockChain, DevOps.**
+
+- 👨‍🎓 I'm completing my graduation thesis in the field of **Block Chain**
+
+- 💬 Ask me about **BlockChain,Computer networks.**
 
 - 📫 How to reach me **tntuan110322@gmail.com**
+
+- ⚡ Fun fact **I think I am Calm**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
