@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tran Nam Tuan</h1>
 <h3 align="center">A computer science from Viet Nam</h3>
 <img align="right" alt="Sky" width = "300" src="https://i.pinimg.com/564x/11/d4/36/11d436eb7da6669e0e14b6236385a357.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suy113&label=Profile%20views&color=0e75b6&style=flat" alt="suy113" /> </p>
+
 
 - 🔭 I’m enhancing my knowledge in the field of **Cyber Security**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **tntuan110322@gmail.com**
 
 - ⚡ Fun fact **I think I am Calm**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suy113&label=Profile%20views&color=0e75b6&style=flat" alt="suy113" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
