@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Nam Tuan</h1>
 <h3 align="center">A computer science from Viet Nam</h3>
 
-<img align="right" alt="Sky"  src="https://i.pinimg.com/originals/c5/cf/ed/c5cfed101a2ab4f6bf2d3db63e4c8c2a.jpg">
+<img align="flex" alt="Sky"  src="https://i.pinimg.com/originals/c5/cf/ed/c5cfed101a2ab4f6bf2d3db63e4c8c2a.jpg">
 - 📫 How to reach me **tntuan110322@gmail.com**
 
 
