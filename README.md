@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tran Nam Tuan</h1>
 <h3 align="center">A computer science from Viet Nam</h3>
-<img align="right" alt ="Sky" width "400" src ="https://i.pinimg.com/564x/11/d4/36/11d436eb7da6669e0e14b6236385a357.jpg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suy113&label=Profile%20views&color=0e75b6&style=flat" alt="suy113" /> </p>
 
 - 📫 How to reach me **tntuan110322@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sec_tnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sec_tnt" height="30" width="40" /></a>
+<a href="https://instagram.com/_sec_tnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sec_tnt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
