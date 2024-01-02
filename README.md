@@ -1,4 +1,5 @@
-<img align="center" margin_left = "10" alt="Flower" width = "700" height = "500"  src="https://i.pinimg.com/originals/9b/d6/5d/9bd65dfd9382f174ca4e17b188614ac8.jpg">
+<img align="center" style="display: block; margin-left: auto; margin-right: auto;" alt="Flower" width="700" height="500" src="https://i.pinimg.com/originals/9b/d6/5d/9bd65dfd9382f174ca4e17b188614ac8.jpg">
+
 
 <h1 align="center">Hi 👋, I'm Tran Nam Tuan</h1>
 <h3 align="center">A computer science from Viet Nam</h3>
