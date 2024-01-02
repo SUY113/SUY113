@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tran Nam Tuan</h1>
 <h3 align="center">A computer science from Viet Nam</h3>
-<img align="right" alt="Sky" width = "300" src="https://i.pinimg.com/564x/11/d4/36/11d436eb7da6669e0e14b6236385a357.jpg">
+<img align="right" alt="Sky" width = "300" height = "500" src="https://i.pinimg.com/564x/11/d4/36/11d436eb7da6669e0e14b6236385a357.jpg">
 
 
 - 🔭 I’m enhancing my knowledge in the field of **Cyber Security**
