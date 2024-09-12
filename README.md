@@ -20,7 +20,6 @@
 - ⚡ Fun fact **I think I am Calm**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suy113&label=Profile%20views&color=0e75b6&style=flat" alt="suy113" /> </p>
 
-<script src="https://tryhackme.com/badge/2565931"> </script>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_sec_tnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sec_tnt" height="30" width="40" /></a>
