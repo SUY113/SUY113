@@ -25,6 +25,8 @@
 <a href="https://instagram.com/_sec_tnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sec_tnt" height="30" width="40" /></a>
 <a href="https://www.facebook.com/blackertnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blackertnt" height="30" width="40" /></a>
 </p>
+<h3 align= "left"> Try Hack Me! </h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/SUYYUS.png" alt="TryHackMe">
 
 
 <h3 align="left">Languages and Tools:</h3>
